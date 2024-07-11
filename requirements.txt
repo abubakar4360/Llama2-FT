@@ -1,0 +1,10 @@
+transformers
+datasets
+peft
+trl
+emoji
+pandas
+openpyxl
+bitsandbytes
+scipy
+accelerate
